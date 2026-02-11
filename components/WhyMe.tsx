@@ -82,7 +82,7 @@ export default function WhyMe() {
 
           <div className="mt-8 pt-8 border-t border-slate-700/50">
             <p className="text-center text-slate-400 italic">
-              "I built my automation stack through trial and error. You get the polished, working version."
+              &ldquo;I built my automation stack through trial and error. You get the polished, working version.&rdquo;
             </p>
           </div>
         </div>
